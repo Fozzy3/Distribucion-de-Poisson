@@ -1,0 +1,11 @@
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\bin\Debug\Probabilidad.exe.config
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\bin\Debug\Probabilidad.exe
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\bin\Debug\Probabilidad.pdb
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.csprojAssemblyReference.cache
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.Form1.resources
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.Form2.resources
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.Properties.Resources.resources
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.csproj.GenerateResource.cache
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.csproj.CoreCompileInputs.cache
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.exe
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.pdb
