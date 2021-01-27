@@ -16,5 +16,29 @@ namespace Probabilidad
         {
             InitializeComponent();
         }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloNumeros(e);
+        }
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloNumeros(e);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 Cambio = new Form1();
+            Cambio.Visible = true;
+            Visible = false;
+        }
     }
 }

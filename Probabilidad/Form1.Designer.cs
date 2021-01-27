@@ -66,6 +66,7 @@ namespace Probabilidad
             this.button1.TabIndex = 2;
             this.button1.Text = "Ejercicio de aviones";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -76,6 +77,7 @@ namespace Probabilidad
             this.button2.TabIndex = 3;
             this.button2.Text = "Teoria";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
@@ -87,6 +89,7 @@ namespace Probabilidad
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

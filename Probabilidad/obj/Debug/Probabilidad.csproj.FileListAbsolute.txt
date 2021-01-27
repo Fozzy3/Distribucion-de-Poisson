@@ -9,3 +9,4 @@ C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.csp
 C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.csproj.CoreCompileInputs.cache
 C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.exe
 C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.pdb
+C:\Users\carlm\source\repos\Probabilidad\Probabilidad\obj\Debug\Probabilidad.Form3.resources

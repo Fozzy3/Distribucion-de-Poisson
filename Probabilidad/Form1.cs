@@ -16,5 +16,19 @@ namespace Probabilidad
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 Cambio = new Form2();
+            Cambio.Visible = true;
+            Visible = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 Cambio = new Form3();
+            Cambio.Visible = true;
+            Visible = false;
+        }
     }
 }
